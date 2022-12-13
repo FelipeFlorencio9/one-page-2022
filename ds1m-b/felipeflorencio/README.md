@@ -5,5 +5,5 @@ Feito em conjunto do curso no Senai de Jandira - Fernando Leonid.
 
 # Links para o projeto
 - Meu perfil : [FelipeFlorencio9](https://github.com/FelipeFlorencio9)
-- Ver o site no Git Hub Page
+- Ver o site no [Git Hub Page](https://FelipeFlorencio9.github.io/one-page-2022/ds1m-b/felipeflorencio)
 - Protótipo no [FIGMA](https://www.figma.com/file/GjSSbaFF9upXfnwfXA4hSs/Music-For-You---OnePage2022?node-id=0%3A1&t=UfLmkmF22men8HMO-0) 
